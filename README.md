@@ -1,2 +1,5 @@
-# ebook-Dive
-자바스크립트 딥다이브 읽고 기록저장소
+ # ebook-Dive
+
+모던 자바스크립트 정보 기록소 🥇
+
+- [모던 자바스크립트 Deep Dive](모던 자바스크립트 Deep Dive/README.md)
